@@ -15,7 +15,7 @@ These repositories mainly contain the parts I developed.
 ## Projects
 
 
-### [MacroRat – Autonomous Maze-Solving Vehicle]()
+### [MacroRat – Autonomous Maze-Solving Vehicle](https://github.com/JudithS-dev/MacroRat)
 Team project for developing an autonomous robot capable of exploring, mapping, and solving an unknown maze using various sensors while avoiding traps.
 
 - Modular embedded architecture based on **ESP32**  
@@ -24,7 +24,7 @@ Team project for developing an autonomous robot capable of exploring, mapping, a
 
 ---
 
-### [Alohomora – Custom Programming Language]()
+### [Alohomora – Custom Programming Language](https://github.com/JudithS-dev/alohomora-lang)
 Independent development of a programming language and interpreter for simple C-like programs.
 
 - **Statically typed language** with arrays, functions, and control structures  
