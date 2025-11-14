@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Judith!
 
 I'm a **Technical Computer Science student** with a focus on **embedded systems** and **low-level programming**.  
-I have basic experience in **C, C++, Ruby, VHDL**, and **Assembly (ARM & x86)**.
+I have experience in **C, C++, Ruby, VHDL**, and **Assembly (ARM & x86)**.
 
 ---
 
